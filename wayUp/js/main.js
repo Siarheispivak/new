@@ -76,17 +76,3 @@
 
 
 
-
-// 2 урок
-// // 1.
-// for (let i = 10; i <= 50; i += 2) {
-//     console.log(i);
-// }
-
-// 2.
-let mySelf = {
-    name: "Siarhei",
-    surname: "Spivak",
-    age: 28,
-    hasDomesticAnimal: true
-}
